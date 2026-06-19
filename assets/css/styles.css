@@ -46,8 +46,6 @@ h1 {
 }
 
 .color-txt {
-	width: 150px;
-	height: 40px;
 	font-family: 'Hammersmith One';
 	font-style: normal;
 	font-weight: 400;
@@ -60,8 +58,6 @@ h1 {
 }
 
 .readable-txt {
-	width: 887px;
-	height: 104px;
 	font-family: 'Cambay';
 	font-style: normal;
 	font-weight: 400;
