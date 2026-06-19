@@ -14,9 +14,7 @@ h1 {
 }
 
 .header-txt {
-	width: 1200px;
-	/* height: 61px; */
-	font-family: 'Iosevka Charon Mono';
+	font-family: 'Helvetica';
 	font-style: normal;
 	text-align: right;
 	color: #FF0000;
@@ -35,9 +33,7 @@ h1 {
 }
 
 .color-header {
-	width: 284px;
-	height: 74px;
-	font-family: 'Imprima';
+	font-family: 'Verdana';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 64px;
