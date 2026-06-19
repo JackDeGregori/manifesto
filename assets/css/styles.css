@@ -19,3 +19,19 @@ h1 {
 	font-weight: bold;
 	transform: rotate(25deg);
 }
+
+.color-header {
+	width: 284px;
+	height: 74px;
+	font-family: 'Imprima';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 64px;
+	line-height: 74px;
+	background: linear-gradient(90deg, #FF0000 -11.42%, #FFD500 23.16%, #07DB00 67.36%, #0000FF 118.11%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-fill-color: transparent;
+	border: 3px solid #8B00B5;
+}
