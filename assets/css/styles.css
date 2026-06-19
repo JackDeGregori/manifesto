@@ -14,20 +14,17 @@ h1 {
 }
 
 .header-txt {
-width: 742px;
-height: 61px;
-font-family: 'Iosevka Charon Mono';
-font-style: normal;
-text-align: right;
-color: #FF0000;
-
-
-/* Inside auto layout */
-/* flex: none;
-order: 0;
-align-self: stretch;
-flex-grow: 0; */
-
+	width: 742px;
+	height: 61px;
+	font-family: 'Iosevka Charon Mono';
+	font-style: normal;
+	text-align: right;
+	color: #FF0000;
+	/* Inside auto layout */
+	/* flex: none;
+	order: 0;
+	align-self: stretch;
+	flex-grow: 0; */
 }
 
 .red {
@@ -51,3 +48,31 @@ flex-grow: 0; */
 	background-clip: text;
 	text-fill-color: transparent;
 }
+
+.color-txt {
+	width: 150px;
+	height: 40px;
+	font-family: 'Hammersmith One';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 40px;
+	/* Inside auto layout */
+	/* flex: none;
+	order: 0;
+	flex-grow: 0; */
+}
+
+.readable-txt {
+	width: 887px;
+	height: 104px;
+	font-family: 'Cambay';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 52px;
+	color: #000000;
+}
+
+
+
