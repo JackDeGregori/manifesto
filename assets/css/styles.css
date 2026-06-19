@@ -13,6 +13,23 @@ h1 {
 	letter-spacing: 10px;
 }
 
+.header-txt {
+width: 742px;
+height: 61px;
+font-family: 'Iosevka Charon Mono';
+font-style: normal;
+text-align: right;
+color: #FF0000;
+
+
+/* Inside auto layout */
+/* flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0; */
+
+}
+
 .red {
 	color: red;
 	font-size: 60px;
