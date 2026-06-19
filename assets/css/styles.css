@@ -36,8 +36,8 @@ h1 {
 	font-family: 'Verdana';
 	font-style: normal;
 	font-weight: 400;
-	font-size: 64px;
-	line-height: 74px;
+	font-size: 44px;
+	line-height: 64px;
 	background: linear-gradient(90deg, #FF0000 -11.42%, #FFD500 23.16%, #07DB00 67.36%, #0000FF 118.11%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -49,8 +49,8 @@ h1 {
 	font-family: 'Hammersmith One';
 	font-style: normal;
 	font-weight: 400;
-	font-size: 32px;
-	line-height: 40px;
+	font-size: 22px;
+	line-height: 30px;
 	/* Inside auto layout */
 	/* flex: none;
 	order: 0;
@@ -61,8 +61,8 @@ h1 {
 	font-family: 'Cambay';
 	font-style: normal;
 	font-weight: 400;
-	font-size: 32px;
-	line-height: 52px;
+	font-size: 22px;
+	line-height: 42px;
 	color: #000000;
 }
 
