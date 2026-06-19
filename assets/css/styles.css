@@ -16,7 +16,7 @@ h1 {
 .header-txt {
 	font-family: 'Helvetica';
 	font-style: normal;
-	text-align: right;
+	/* text-align: right; */
 	color: #FF0000;
 	/* Inside auto layout */
 	/* flex: none;
