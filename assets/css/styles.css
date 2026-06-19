@@ -14,8 +14,8 @@ h1 {
 }
 
 .header-txt {
-	width: 742px;
-	height: 61px;
+	width: 1200px;
+	/* height: 61px; */
 	font-family: 'Iosevka Charon Mono';
 	font-style: normal;
 	text-align: right;
