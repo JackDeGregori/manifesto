@@ -63,8 +63,22 @@ h1 {
 	font-weight: 400;
 	font-size: 22px;
 	line-height: 42px;
-	color: #000000;
+	color: white;
 }
 
+.readable-txt-2 {
+	font-family: 'Papyrus', fantasy;
+	font-size: 24px;
+	line-height: 44px;
+	position: absolute;
+	font-weight: 600;
+	z-index: 1;
+}
 
-
+.have-fun {
+	font-family: 'Monaco', monospace;
+	font-size: 27px;
+	color: #F527F2;
+	font-weight: 400;
+	line-height: 50px;
+}
